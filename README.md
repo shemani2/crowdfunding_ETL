@@ -38,6 +38,8 @@ The instructions for this mini project are divided into the following subsection
 * A "subcategory" column that contains only the subcategory titles
 
 * The following image shows this subcategory DataFrame:
+
+
 ![image](https://github.com/shemani2/project2_crowdfunding_ETL/assets/111611012/a401a13b-cb46-4481-b77c-62b645538a4e)
 
 4. Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
